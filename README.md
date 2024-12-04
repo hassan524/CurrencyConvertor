@@ -1,4 +1,6 @@
-# PassGen
+## Currency Convertor
 
-Basic Password Generator
+To start the server,
 
+```bash
+npm run dev
