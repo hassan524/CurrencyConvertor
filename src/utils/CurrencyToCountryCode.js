@@ -6,7 +6,7 @@ const currencyToCountryCode = {
     ANG: 'nl', // Netherlands Antilles
     AOA: 'ao', // Angola
     ARS: 'ar', // Argentina
-    AUD: 'au', // Australia
+    AUD: 'au', // Australiaa
     AWG: 'aw', // Aruba
     AZN: 'az', // Azerbaijan
     BAM: 'ba', // Bosnia and Herzegovina
